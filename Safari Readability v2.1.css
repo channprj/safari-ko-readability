@@ -74,6 +74,11 @@
 }
 
 @font-face {
+    font-family: Gungsuhche;
+    src: local("Apple SD Gothic Neo");
+}
+
+@font-face {
     font-family: MalgunGothic;
     src: local("Apple SD Gothic Neo");
 }
@@ -85,6 +90,11 @@
 
 @font-face {
     font-family: "맑은 고딕";
+    src: local("Apple SD Gothic Neo");
+}
+
+@font-face {
+    font-family: "맑은고딕";
     src: local("Apple SD Gothic Neo");
 }
 
